@@ -1,0 +1,16 @@
+#colorPicker {
+	display: none;
+}
+
+#toolbar {
+	border: 1px solid black;
+	width: 200px;
+	padding: 10px;
+}
+
+.element {
+	width: 100px;
+	margin: 5px;
+    padding: 5px;
+    border: 1px solid black;
+}
